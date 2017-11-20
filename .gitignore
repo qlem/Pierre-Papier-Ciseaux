@@ -1,0 +1,7 @@
+PFC/bin/*
+PFC/obj/*
+PFC/packages/*
+PFC/Client/bin/*
+PFC/Client/obj/*
+PFC/Server/bin/*
+PFC/Server/obj/*
