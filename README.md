@@ -1,9 +1,12 @@
 # Pierre-Papier-Ciseaux
 
-Small game with client / server. Developed in C#
+Small game with client / server. Use [NetworkComms.Net](http://www.networkcomms.net/) and [Json.NET](https://www.newtonsoft.com/json)
+Developed in C#
 
 ## Screenshot
 
-## Build
+![alt text](https://github.com/qlem/Pierre-Papier-Ciseaux/blob/master/screenshot.png)
 
-Import solution in your favorite IDE Rider, Visual Studio, etc and build 
+## Build & Run
+
+Import solution in your favorite IDE (Visual Studio / Rider / etc) then build and run server and client.
